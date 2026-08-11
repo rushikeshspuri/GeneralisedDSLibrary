@@ -1,0 +1,5 @@
+Demo
+*.o
+*.out
+.vscode/
+.idea/
